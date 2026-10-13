@@ -57,7 +57,7 @@ lengthOfLongestSubstring("pwwkew")    # 3
 
 ### Video explanation
 
-[[Watch the Task 2 code walkthrough] https://youtu.be/7cjq29f7oho]
+https://youtu.be/7cjq29f7oho
 
 ## Task 3: Longest Palindromic Substring
 
@@ -86,4 +86,4 @@ longestPalindrome("racecar") # "racecar"
 
 ### Video explanation
 
-[Watch the Task 3 code walkthrough](PASTE_TASK_3_VIDEO_URL_HERE)
+https://youtu.be/tuYwOeujeXw
