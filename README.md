@@ -28,7 +28,7 @@ python task1_banking_system.py
 
 ### Video explanation
 
-[[Watch the Task 1 code walkthrough](PASTE_TASK_1_VIDEO_URL_HERE)](https://youtu.be/dFZ3tVOdZSk)
+https://youtu.be/dFZ3tVOdZSk
 
 ## Task 2: Longest Substring Without Repeating Characters
 
@@ -86,4 +86,4 @@ longestPalindrome("racecar") # "racecar"
 
 ### Video explanation
 
-[[Watch the Task 3 code walkthrough](PASTE_TASK_3_VIDEO_URL_HERE)](https://youtu.be/tuYwOeujeXw)
+[Watch the Task 3 code walkthrough](PASTE_TASK_3_VIDEO_URL_HERE)
