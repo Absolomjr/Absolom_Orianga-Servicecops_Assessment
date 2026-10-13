@@ -1,9 +1,8 @@
 
 def lengthOfLongestSubstring(s: str) -> int:
-    """
-    Return the length of the longest substring
-    without repeating characters.
-    """
+    
+    # Return the length of the longest substring without repeating characters.
+    
     last_seen = {}
     left = 0
     max_length = 0

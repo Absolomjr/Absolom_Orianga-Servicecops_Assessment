@@ -5,7 +5,7 @@ from decimal import Decimal, InvalidOperation
 
 
 class BankAccount:
-    """Represents a single bank account."""
+    # Represents a single bank account.
 
     def __init__(self, account_number, holder_name, password):
         self.account_number = account_number
@@ -46,7 +46,7 @@ class BankAccount:
 
 
 class Bank:
-    """Manages multiple bank accounts."""
+    # Manages multiple bank accounts.
 
     def __init__(self):
         self.accounts = {}
@@ -75,7 +75,7 @@ class Bank:
 
 
 def read_amount():
-    """Read a valid monetary amount from the user."""
+    # Read a valid monetary amount from the user.
     try:
         amount = Decimal(input("Enter amount: ").strip())
 
